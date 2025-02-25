@@ -12,10 +12,10 @@ The primary objective was to refine the selection process for the wave-2 mailing
 
 #### Repository Contents
 
-1. `intuit_code.ipynb`: Jupyter notebook containing the main analysis and modeling code.
+1. `intuit.ipynb`: Jupyter notebook containing the main analysis and modeling code.
 2. `data/`: Data sets used in the analysis.
 3. `intuit-quickbooks_case.pdf`: PDF document detailing the case study.
-4. `writeup.ipynb`: Additional explanations and write-up of the analysis.
+4. `intuit_analysis.ipynb`: Additional explanations and write-up of the analysis.
 5. `to_target_businesses.csv` : Data file containing the list of businesses to target in the wave-2 campaign.
 
 #### Technologies Used
